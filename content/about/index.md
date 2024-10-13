@@ -74,11 +74,3 @@ _2018 – Current_
 ### MA, Service Design - [Royal College of Art](https://www.rca.ac.uk/)  
 
 ### BSc, Communication Design - [Politecnico di Milano](https://www.polimi.it/)  
-
----
-
-## Contact
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
