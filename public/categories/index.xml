@@ -21,21 +21,21 @@
     </item>
     
     <item>
-      <title>Post</title>
-      <link>http://localhost:1313/categories/post/</link>
+      <title>Project</title>
+      <link>http://localhost:1313/categories/project/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/categories/post/</guid>
+      <guid>http://localhost:1313/categories/project/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Project</title>
-      <link>http://localhost:1313/categories/project/</link>
+      <title>Post</title>
+      <link>http://localhost:1313/categories/post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/categories/project/</guid>
+      <guid>http://localhost:1313/categories/post/</guid>
       <description></description>
       
     </item>

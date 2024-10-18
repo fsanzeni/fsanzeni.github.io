@@ -21,18 +21,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/first_article/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/second_article/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -40,6 +28,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/first_article/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

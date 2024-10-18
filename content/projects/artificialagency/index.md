@@ -3,7 +3,7 @@ title = 'Artificial Agency'
 date = 2024-01-14T07:07:07+01:00
 summary = "What if the algorithm would prevent the user from performing certain actions which are deemed unlayful or unethical?"
 showSummary = true
-categories = ["Post","Blog",]
+categories = ["Project"]
 tags = ["ethics","transhumanism","wearable"]
 +++
 Companies selling prosthetics with embedded AI systems already exist ([Blatchford - UK](https://www.blatchfordmobility.com/) , [Össur - Iceland](https://www.ossur.com/)).
