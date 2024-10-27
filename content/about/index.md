@@ -42,12 +42,12 @@ I helped establish design-led strategic foresight, work¬ing with the UK governm
 ### Lecturer - [Ravensbourne University](https://www.ravensbourne.ac.uk/)  
 _September 2020 – May 2022_  
 
-I helped establish design-led strategic foresight, work¬ing with the UK government, SMEs and academia to enable breakthrough innovation. I worked with private and public organisations spanning industries of advanced air mobility, rail, maritime transport, and digital twins. I was responsible for future product develop¬ment, horizon scanning, and prototyping. Further, I led design futures and client alignment workshops. 
+Designed and delivered: Introduction to 3D Skills and Immersive Technologies - Coding, Figures and Visuals - Creative Computing - Digital Marketing.
 
 ### Visiting Lecturer - [Royal College of Art](https://www.rca.ac.uk/)  
 _October 2018 – October 2022_  
 
-I helped establish design-led strategic foresight, work¬ing with the UK government, SMEs and academia to enable breakthrough innovation. I worked with private and public organisations spanning industries of advanced air mobility, rail, maritime transport, and digital twins. I was responsible for future product develop¬ment, horizon scanning, and prototyping. Further, I led design futures and client alignment workshops. 
+Delivered courses on ethics, future forecasting, trans¬disciplinary practices between design and science.
 
 ### Multiple Roles  
 _2018 – Current_  
