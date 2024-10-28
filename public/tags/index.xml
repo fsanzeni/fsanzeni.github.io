@@ -9,43 +9,33 @@
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardware</title>
+      <link>http://localhost:1313/tags/hardware/</link>
+      <pubDate>Mon, 28 Oct 2024 11:29:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/tags/hardware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open-Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Mon, 28 Oct 2024 11:29:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Ethics</title>
       <link>http://localhost:1313/tags/ethics/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
       <guid>http://localhost:1313/tags/ethics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>http://localhost:1313/tags/ipsum/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/tags/ipsum/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lorem</title>
-      <link>http://localhost:1313/tags/lorem/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/tags/lorem/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Post</title>
-      <link>http://localhost:1313/tags/post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/tags/post/</guid>
       <description></description>
       
     </item>
@@ -86,6 +76,36 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
       <guid>http://localhost:1313/tags/essentialism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>http://localhost:1313/tags/ipsum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/tags/ipsum/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lorem</title>
+      <link>http://localhost:1313/tags/lorem/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/tags/lorem/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>http://localhost:1313/tags/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/tags/post/</guid>
       <description></description>
       
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Filippo Sanzeni</title>
+    <link>http://localhost:1313/tags/hardware/</link>
+    <description>Recent content in Hardware on Filippo Sanzeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
+    <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
+    
+    <lastBuildDate>Mon, 28 Oct 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F91W Log 1</title>
+      <link>http://localhost:1313/posts/f91w-log-1/</link>
+      <pubDate>Mon, 28 Oct 2024 11:29:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/f91w-log-1/</guid>
+      <description>Working on the power circuitry</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/f91w-log-1/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

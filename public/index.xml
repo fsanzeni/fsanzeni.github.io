@@ -9,7 +9,17 @@
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F91W Log 1</title>
+      <link>http://localhost:1313/posts/f91w-log-1/</link>
+      <pubDate>Mon, 28 Oct 2024 11:29:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/f91w-log-1/</guid>
+      <description>Working on the power circuitry</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/f91w-log-1/featured.png" />
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
@@ -28,16 +38,6 @@
       <guid>http://localhost:1313/projects/artificialagency/</guid>
       <description>What if the algorithm would prevent the user from performing certain actions which are deemed unlayful or unethical?</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/artificialagency/featured.png" />
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/first_article/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/posts/first_article/</guid>
-      <description>Something</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first_article/featured.png" />
     </item>
     
     <item>

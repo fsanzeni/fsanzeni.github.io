@@ -52,7 +52,7 @@ Delivered courses on ethics, future forecasting, trans¬disciplinary practices b
 ### Multiple Roles  
 _2018 – Current_  
 
-- At the [Near Future Laboratory](https://nearfuturelaboratory.com/), I led the design, development, and prototyping of a modern reinterpretation of the Casio F91W watch and handled hardware design for large-scale manufacturing. 
+- At the [Near Future Laboratory](https://nearfuturelaboratory.com/), I am leading the design, development, and prototyping of a modern reinterpretation of the Casio F91W watch and handled hardware design for large-scale manufacturing. 
 - At [Metalabel](https://www.metalabel.com/), I contributed to Web3 business development by building a distributed network of peers and developing custom ERC721-based tokens. 
 - For [OPPO](), I developed next-generation bone-conducting headphones, focusing on concept development, rapid prototyping, and patent applications. 
 - At [CERN IdeaSquare](https://www.oppo.com/), I supported the development of an open-source muon particle detector for earthquake early alert systems. 
