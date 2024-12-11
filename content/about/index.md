@@ -75,7 +75,7 @@ _2018 – Current_
 
 ## Education
 
-PhD, Design & Robotics - [Royal College of Art](https://www.rca.ac.uk/)  
+PhD, Robotics - [Royal College of Art](https://www.rca.ac.uk/)  
 
 MA, Service Design - [Royal College of Art](https://www.rca.ac.uk/)  
 

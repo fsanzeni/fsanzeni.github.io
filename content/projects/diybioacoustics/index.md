@@ -1,7 +1,7 @@
 +++
 title = 'DIY Bioacoustics'
 date = 2017-01-01
-summary = "Open source sensor/service for preemptive detection of pests in crops"
+summary = "Open source sensor/service for preemptive detection of pests in crops."
 showSummary = true
 categories = ["Post","Blog",]
 tags = ["post","lorem","ipsum"]

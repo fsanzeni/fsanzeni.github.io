@@ -1,7 +1,7 @@
 +++
 title = 'From the cDc to Design Futures'
 date = 2024-12-03T11:29:00
-summary = "Personal reflection on how hacking culture and Futures work are connected via a punch thrown back in the day"
+summary = "Personal reflection on how hacking culture and Futures work are connected via a punch thrown back in the day."
 showSummary = true
 categories = ["Blog",]
 tags = ["rambling","design futures"]

@@ -9,14 +9,24 @@
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Tue, 03 Dec 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 09:09:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Institutional Inertia</title>
+      <link>http://localhost:1313/posts/on-institutional-inertia/</link>
+      <pubDate>Wed, 11 Dec 2024 09:09:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/on-institutional-inertia/</guid>
+      <description>How the piartes of Monkey Island can teach us about organisational inertia, or, why companies do not like change so much.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-institutional-inertia/featured.png" />
+    </item>
+    
     <item>
       <title>From the cDc to Design Futures</title>
       <link>http://localhost:1313/posts/from-the-cdc-to-design-futures/</link>
       <pubDate>Tue, 03 Dec 2024 11:29:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
       <guid>http://localhost:1313/posts/from-the-cdc-to-design-futures/</guid>
-      <description>Personal reflection on how hacking culture and Futures work are connected via a punch thrown back in the day</description>
+      <description>Personal reflection on how hacking culture and Futures work are connected via a punch thrown back in the day.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/from-the-cdc-to-design-futures/featured.png" />
     </item>
     
@@ -26,7 +36,7 @@
       <pubDate>Mon, 28 Oct 2024 11:29:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
       <guid>http://localhost:1313/posts/f91w-log-1/</guid>
-      <description>Working on the power circuitry</description>
+      <description>Working on the power circuitry of a re-designed Casio F91W, now with wireless charging.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/f91w-log-1/featured.jpg" />
     </item>
     
@@ -56,7 +66,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
       <guid>http://localhost:1313/projects/diybioacoustics/</guid>
-      <description>Open source sensor/service for preemptive detection of pests in crops</description>
+      <description>Open source sensor/service for preemptive detection of pests in crops.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/diybioacoustics/featured.png" />
     </item>
     

@@ -1,7 +1,7 @@
 +++
 title = 'F91W Log 1'
 date = 2024-10-28T11:29:00
-summary = "Working on the power circuitry"
+summary = "Working on the power circuitry of a re-designed Casio F91W, now with wireless charging. "
 showSummary = true
 categories = ["Blog",]
 tags = ["hardware","open-source"]
