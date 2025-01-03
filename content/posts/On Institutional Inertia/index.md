@@ -1,7 +1,7 @@
 +++
 title = 'On Institutional Inertia'
 date = 2024-12-11T09:09:00
-summary = "How the piartes of Monkey Island can teach us about organisational inertia, or, why companies do not like change so much."
+summary = "How the pirates of Monkey Island can teach us about organisational inertia, or, why companies do not like change so much."
 showSummary = true
 categories = ["Blog",]
 tags = ["rambling","strategy","change management"]

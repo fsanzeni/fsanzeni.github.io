@@ -11,7 +11,7 @@ demosite = "https://blowfish.page/"
 tags = ["blog", "minimal", "responsive", "dark mode", "dark", "light", "tailwind", "personal"]
 features = ["syntax highlighting", "dark mode", "emoji", "firebase", "views"]
 
-[author]
+[params.author]
   name = "Nuno Coracao"
   homepage = "https://nunocoracao.com/"
 

@@ -13,7 +13,7 @@ title = "Filippo Sanzeni"
   description = "Filippo Sanzeni | Thoughts and Work"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Filippo Sanzeni"
   email = "sanzenifilippo@gmail.com"
 #   image = "img/blowfish_logo.png"
