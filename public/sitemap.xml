@@ -4,13 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-01T09:09:00+00:00</lastmod>
+    <lastmod>2025-01-03T09:09:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/on-risk-homeostasis/</loc>
+    <lastmod>2025-01-03T09:09:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-01T09:09:00+00:00</lastmod>
+    <lastmod>2025-01-03T09:09:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
