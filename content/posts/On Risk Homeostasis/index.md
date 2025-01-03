@@ -40,7 +40,7 @@ Here’s a snarky reality check: if your company’s biggest competitive advanta
 
 The solution isn’t to downsize for the sake of downsizing or to fetishise the startup mentality. It’s to refocus on what matters: outcomes and outputs. Ask yourself: What’s the minimum structure we need to achieve our goals? How can we avoid the gravitational pull of unnecessary complexity? And, most importantly, how do we keep [insert your goal here] at the centre of everything we do?
 
-Allow me to go back to the literature to conclude this ramble. Wilde’s RHT model (Wilde, 1988, proposition 2) outlines three paths to achieving this homeostasis: adjusting behaviours within the current environment, switching modes entirely (technically called mode migration), or outright avoidance.
+Allow me to go back to the literature to conclude this ramble. Wilde’s RHT model [(1988, proposition 2)](https://www.tandfonline.com/doi/abs/10.1080/00140138808966691) outlines three paths to achieving this homeostasis: adjusting behaviours within the current environment, switching modes entirely (technically called mode migration), or outright avoidance.
 
 In software, when systems become safer or simpler, we often “spend” that safety by layering on new features or risks until we hit our perceived threshold of complexity. Similarly, organisations toggle between adding structure and stripping it back, chasing a balance between agility and stability. And in strategy, we rub shoulders with complexity, only to periodically step back and reset when clarity is lost.
 
