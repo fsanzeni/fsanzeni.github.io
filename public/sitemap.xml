@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/on-hardware-enshittefication/</loc>
+    <lastmod>2025-01-01T13:03:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/on-institutional-inertia/</loc>
     <lastmod>2024-12-11T09:09:00+00:00</lastmod>
     <changefreq>daily</changefreq>

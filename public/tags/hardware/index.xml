@@ -9,7 +9,17 @@
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Mon, 28 Oct 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 13:03:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Hardware Enshittefication</title>
+      <link>http://localhost:1313/posts/on-hardware-enshittefication/</link>
+      <pubDate>Wed, 01 Jan 2025 13:03:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/on-hardware-enshittefication/</guid>
+      <description>A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates. They are not the first company to engage in hardware enshittefication.</description>
+      
+    </item>
+    
     <item>
       <title>F91W Log 1</title>
       <link>http://localhost:1313/posts/f91w-log-1/</link>
