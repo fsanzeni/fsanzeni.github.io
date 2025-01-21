@@ -1,5 +1,5 @@
 +++
-title = 'On Hardware Enshittefication'
+title = 'On Hardware Enshittification'
 date = 2025-01-21T12:33:00
 summary = "A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates."
 showSummary = true
@@ -7,7 +7,7 @@ categories = ["Blog",]
 tags = ["rambling","strategy","hardware"]
 +++
 
-Bambu Lab, a relatively recent darling of the 3D printing world, has joined the pantheon of tech companies adopting the tradition of hardware enshittefication. Their latest move - [a firmware update on January 16, 2025](https://blog.bambulab.com/firmware-update-introducing-new-authorization-control-system-2/) - introduced “security measures” so unconvincing they might as well have come with air quotes and a side of contempt (I’ll be using air quotes liberally throughout this post, please do read them with irony). Ostensibly designed to “protect users”, the update added an authentication mechanism that smells suspiciously like nerfing capabilities that customers paid for.  
+Bambu Lab, a relatively recent darling of the 3D printing world, has joined the pantheon of tech companies adopting the tradition of hardware enshittification. Their latest move - [a firmware update on January 16, 2025](https://blog.bambulab.com/firmware-update-introducing-new-authorization-control-system-2/) - introduced “security measures” so unconvincing they might as well have come with air quotes and a side of contempt (I’ll be using air quotes liberally throughout this post, please do read them with irony). Ostensibly designed to “protect users”, the update added an authentication mechanism that smells suspiciously like nerfing capabilities that customers paid for.  
 
 The backlash was swift, as it always is when you poke a once-loyal, now-betrayed user community. The update sparked outrage over its potential to hobble third-party slicer software like the excellent [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer). It left users wondering how long it would be before their shiny Bambu printers became cloud-dependent bricks. Enter Louis Rossman, YouTube’s consumer rights activist, [who wielded righteous indignation to rally the troops](https://youtu.be/aIyaDD8onIE). Faced with an angry mob, Bambu Lab scrambled to reassure everyone that their new “Bambu Connect” platform would still allow third-party software and offline operation - but you would still have to register to their online service to set up the printer. Also, most offline functionality is now locked behind an opt-in 'Developer Mode'.
 
@@ -37,14 +37,14 @@ The folly of moves like Bambu Lab’s is that they target the wrong audience. Yo
 
 The same applies to farmers fighting John Deere’s repair lockdowns or prosumers who flocked to open-source platforms to escape the constraints of proprietary ecosystems (remember when Autodesk changed their licensing for Fusion360 and the exodus towards open-source alternatives?). These groups prize autonomy, transparency, and the ability to solve problems on their own terms. By locking down your ecosystem, you’re not offering security or innovation - you’re waving a red flag in the face of the very people who value your product for what it *could be*, not what you want to limit it to. 
 
-At the heart of enshittefication is a paradox: companies implement these strategies to maximise profit, but they often erode the very customer loyalty that made them successful in the first place. What Bambu Lab (and its ilk) fail to grasp is that ecosystems feed on trust, not coercion. Definitely, [issuing a semi-gaslighting press release was not the most tactically savvy thing to do](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/).
+At the heart of enshittification is a paradox: companies implement these strategies to maximise profit, but they often erode the very customer loyalty that made them successful in the first place. What Bambu Lab (and its ilk) fail to grasp is that ecosystems feed on trust, not coercion. Definitely, [issuing a semi-gaslighting press release was not the most tactically savvy thing to do](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/).
 
 But no. Like so many others, they chose the path of least imagination and greatest irritation. The result is a cautionary tale for folks working in strategy and a grim reminder for users: the products we love don’t belong to us - they belong to the companies who see us less as customers and more as an ongoing revenue stream.  
 
 Alienating your customer base _never_ ends up in meadows and rainbows. A bad move with tinkerers? They’ll reverse-engineer your hardware, fork your software, and post the workaround online before you’ve finished drafting your press release. Upset farmers? They’ll lobby lawmakers, file lawsuits, and spark a right-to-repair movement undermining your business model. Frustrate prosumers? They’ll flock to your competitors.  
 
-Bambu Lab’s botched update is a sad reminder of how not to engage with a technically-minded audience. They could have strengthened their market position and maintained their following if they had leaned into _what their customers expect and bought the printer to begin with_ (wild concept, I know). Instead, they risk becoming just another name in the cautionary tales of enshittefication.  
+Bambu Lab’s botched update is a sad reminder of how not to engage with a technically-minded audience. They could have strengthened their market position and maintained their following if they had leaned into _what their customers expect and bought the printer to begin with_ (wild concept, I know). Instead, they risk becoming just another name in the cautionary tales of enshittification.  
 
-So here’s to the next firmware update, the next subscription fee, and the next set of proprietary dongles. Enshittefication marches on, one locked door at a time.
+So here’s to the next firmware update, the next subscription fee, and the next set of proprietary dongles. Enshittification marches on, one locked door at a time.
 
 [^1]: Of course, [clever people have devised ways to get around these artificial restrictions](https://hackaday.com/2024/09/28/man-in-the-middle-pcb-unlocks-hp-ink-cartridges/). Better yet, if I can offer modest advice, get yourself a laser printer that is a decade old - they’re built like tanks (albeit slower) and don’t have these silly DRMs.
