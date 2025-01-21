@@ -1,7 +1,7 @@
 +++
 title = 'On Hardware Enshittefication'
 date = 2025-01-21T12:33:00
-summary = "A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates. They are not the first company to engage in hardware enshittefication."
+summary = "A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates."
 showSummary = true
 categories = ["Blog",]
 tags = ["rambling","strategy","hardware"]
