@@ -9,7 +9,27 @@
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Fri, 03 Jan 2025 09:09:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rambling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 21:06:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rambling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Tariffs and Globalisation</title>
+      <link>http://localhost:1313/posts/on-tariffs-and-globalisation/</link>
+      <pubDate>Mon, 03 Feb 2025 21:06:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/on-tariffs-and-globalisation/</guid>
+      <description>Tariffs have been a useful tool for protectionism. Up the 1920s. Perhaps today things are a little more complicated.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-tariffs-and-globalisation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>On Hardware Enshittification</title>
+      <link>http://localhost:1313/posts/on-hardware-enshittification/</link>
+      <pubDate>Tue, 21 Jan 2025 12:33:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/on-hardware-enshittification/</guid>
+      <description>A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-hardware-enshittification/featured.png" />
+    </item>
+    
     <item>
       <title>On Risk Homeostasis</title>
       <link>http://localhost:1313/posts/on-risk-homeostasis/</link>
@@ -18,16 +38,6 @@
       <guid>http://localhost:1313/posts/on-risk-homeostasis/</guid>
       <description>Jump into my latest rabbit hole: risk homeostasis theory, or, why we can rethink risk in strategy (and software development).</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-risk-homeostasis/featured.png" />
-    </item>
-    
-    <item>
-      <title>On Hardware Enshittefication</title>
-      <link>http://localhost:1313/posts/on-hardware-enshittefication/</link>
-      <pubDate>Wed, 01 Jan 2025 13:03:00 +0000</pubDate>
-      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/posts/on-hardware-enshittefication/</guid>
-      <description>A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates. They are not the first company to engage in hardware enshittefication.</description>
-      
     </item>
     
     <item>
