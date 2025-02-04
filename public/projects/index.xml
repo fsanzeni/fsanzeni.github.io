@@ -9,7 +9,17 @@
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auracast Bluetooth Speaker</title>
+      <link>http://localhost:1313/projects/auracast-speaker/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/projects/auracast-speaker/</guid>
+      <description>Trials and tribulations in developing a Bluetooth speaker ecosystem.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/auracast-speaker/featured.jpg" />
+    </item>
+    
     <item>
       <title>Artificial Agency</title>
       <link>http://localhost:1313/projects/artificialagency/</link>

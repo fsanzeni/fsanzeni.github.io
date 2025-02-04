@@ -21,6 +21,26 @@
     </item>
     
     <item>
+      <title>DIY Bioacoustics</title>
+      <link>http://localhost:1313/projects/auracast-speaker/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/projects/auracast-speaker/</guid>
+      <description>Open source sensor/service for preemptive detection of pests in crops.</description>
+      
+    </item>
+    
+    <item>
+      <title>DIY Bioacoustics</title>
+      <link>http://localhost:1313/projects/diybioacoustics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/projects/diybioacoustics/</guid>
+      <description>Open source sensor/service for preemptive detection of pests in crops.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/diybioacoustics/featured.png" />
+    </item>
+    
+    <item>
       <title>OCCHIO</title>
       <link>http://localhost:1313/projects/occhio/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>

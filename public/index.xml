@@ -41,6 +41,16 @@
     </item>
     
     <item>
+      <title>Auracast Bluetooth Speaker</title>
+      <link>http://localhost:1313/projects/auracast-speaker/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/projects/auracast-speaker/</guid>
+      <description>Trials and tribulations in developing a Bluetooth speaker ecosystem.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/auracast-speaker/featured.jpg" />
+    </item>
+    
+    <item>
       <title>On Institutional Inertia</title>
       <link>http://localhost:1313/posts/on-institutional-inertia/</link>
       <pubDate>Wed, 11 Dec 2024 09:09:00 +0000</pubDate>
