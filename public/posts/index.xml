@@ -70,5 +70,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/f91w-log-1/featured.jpg" />
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/on-the-innovator-myth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/on-the-innovator-myth/</guid>
+      <description>Introduction #I’ve been toiling on this post for what feels like ages - mainly driven by my admiration for Bunnie Huang’s subversive exploits in the hacking world — when, suddenly, the universe threw me (well, us all) a curveball.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-the-innovator-myth/featured.webp" />
+    </item>
+    
   </channel>
 </rss>
