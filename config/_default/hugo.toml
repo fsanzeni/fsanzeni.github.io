@@ -1,4 +1,4 @@
-theme = "blowfish" # UNCOMMENT THIS LINE
+theme = "blowfish"
 baseURL = "https://filipposanzeni.com/"
 defaultContentLanguage = "en"
 

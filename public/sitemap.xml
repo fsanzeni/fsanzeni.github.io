@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-03T21:06:00+00:00</lastmod>
+    <lastmod>2025-02-07T14:12:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-tariffs-and-globalisation/</loc>
-    <lastmod>2025-02-03T21:06:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/on-the-innovator-myth/</loc>
+    <lastmod>2025-02-07T14:12:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-07T14:12:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/on-tariffs-and-globalisation/</loc>
     <lastmod>2025-02-03T21:06:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -89,11 +95,6 @@
   <url>
     <loc>http://localhost:1313/projects/ffforthedesigner/</loc>
     <lastmod>2016-01-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/on-the-innovator-myth/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

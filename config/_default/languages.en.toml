@@ -3,6 +3,9 @@ languageName = "English"
 weight = 1
 title = "Filippo Sanzeni"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   displayName = "EN"
   isoCode = "en"
@@ -26,6 +29,7 @@ title = "Filippo Sanzeni"
     { linkedin = "https://www.linkedin.com/in/filipposanzeni/" },
     { x-twitter = "https://twitter.com/FilippoSanzeni" },
     { researchgate = "https://www.researchgate.net/profile/Filippo-Sanzeni" },
+    { rss = "https://www.filipposanzeni.com/index.xml" },
     ]
 
 

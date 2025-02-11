@@ -159,3 +159,6 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[rssnext]
+  userId = "fsanzeni"

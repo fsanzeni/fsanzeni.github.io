@@ -19,7 +19,7 @@ In the West, the founder is cast as the Prometheus of commerce, a solitary figur
 
 But myths are not just stories we tell – they are stories that shape us. The “heroic founder” narrative is no exception. It is a lens, warped by Western ideals of individualism, that blinds us to other ways of seeing. It insists that the value of an idea lies in its ownership, that the act of creation is the triumph of one over many. And it assumes that success is earned only through dominion over markets, competition, and, crucially, intellectual property.
 
-This is the myth that tells you Steve Jobs invented the smartphone, that Elon Musk’s name alone propelled humanity closer to Mars, that Jeff Bezos brought the age of logistics into being from sheer willpower[1]. It is a story as intoxicating as it is dangerous, because it reduces the complex, collaborative act of innovation to a singular narrative of conquest. It forgets that Apple’s iconic devices are the fruits of a global supply chain, that Tesla’s rise depended on open patents, or that Amazon’s dominance was paved with taxpayer-funded infrastructure.
+This is the myth that tells you Steve Jobs invented the smartphone, that Elon Musk’s name alone propelled humanity closer to Mars, that Jeff Bezos brought the age of logistics into being from sheer willpower[^1]. It is a story as intoxicating as it is dangerous, because it reduces the complex, collaborative act of innovation to a singular narrative of conquest. It forgets that Apple’s iconic devices are the fruits of a global supply chain, that Tesla’s rise depended on open patents, or that Amazon’s dominance was paved with taxpayer-funded infrastructure.
 
 The heroic founder becomes not just a role model but a justification for systemic inequities, where those who succeed are given all the credit and those who fail are left to bear all the blame. This is not to say that founders don’t matter – but how we valorise them obscures the collective work of invention, the shared nature of knowledge, and the cultural contexts shaping success.
 
@@ -73,4 +73,4 @@ Don’t take it from me: [there is no empirical evidence to support the myth tha
 
 So, how can we work in both frameworks, alternating between the two depending on the situation? And where is Europe and the UK in all of this? Please reach out if you have any thoughts, I’d love to hear from you.
 
-[^] In fact, [this is simply not true](https://hbr.org/2008/02/the-founders-dilemma), [as seen here too](https://www.forbes.com/councils/forbesbusinesscouncil/2024/08/15/the-myth-of-the-self-made-entrepreneur/).
+[^1]: In fact, [this is simply not true](https://hbr.org/2008/02/the-founders-dilemma), [as seen here too](https://www.forbes.com/councils/forbesbusinesscouncil/2024/08/15/the-myth-of-the-self-made-entrepreneur/).
