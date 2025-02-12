@@ -13,7 +13,7 @@ But Meta, besides riding the 777 seas, didn’t just download - they actively co
 
 {{< youtubeLite id="gKNvLyxHTmg" label="I know that the reference to those '777 seas' is obscure at best, so here's the reference. Razor 1911's work on cracktros is some of the finest put there. And this tune is straight up bangin." >}}
 
-## The Power Imbalance: Internet Archive vs. Meta’s Corporate Piracy
+## Internet Archive vs. Meta’s Corporate Piracy
 
 This news (scandal?) highlights the hypocrisy in how copyright laws are enforced. The [Internet Archive](https://archive.org/), a nonprofit digital library, has faced relentless lawsuits for lending scanned books under controlled “digital borrowing” models. Publishers like [Hachette, HarperCollins, Wiley, and Penguin Random House sued it for “mass copyright infringement,” arguing that even limited lending harms sales](https://www.eff.org/cases/hachette-v-internet-archive). Yet Meta - a trillion-dollar corporation - downloaded terabytes of pirated content with near-impunity, adding insult to injury by masking its actions to avoid accountability. Irony? More like corporate kleptocracy.
 
