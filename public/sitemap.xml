@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-07T14:12:00+00:00</lastmod>
+    <lastmod>2025-02-12T14:19:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-the-innovator-myth/</loc>
-    <lastmod>2025-02-07T14:12:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/on-piracy-for-me-not-for-thee/</loc>
+    <lastmod>2025-02-12T14:19:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-12T14:19:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/on-the-innovator-myth/</loc>
     <lastmod>2025-02-07T14:12:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
