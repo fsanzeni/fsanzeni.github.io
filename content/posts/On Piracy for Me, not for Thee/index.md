@@ -12,6 +12,7 @@ Meta [torrented 81.7 terabytes of pirated books](https://arstechnica.com/tech-po
 But Meta, besides riding the 777 seas, didn’t just download - they actively concealed their tracks. Employees avoided using company servers, switched to VPNs, and joked about the illegality. One engineer wrote, “Torrenting from a corporate laptop doesn’t feel right”, while others debated ethics, comparing LibGen to The Pirate Bay. Even CEO Mark Zuckerberg was implicated: internal emails show the decision to use pirated data was escalated to him, contradicting his public denials.
 
 {{< youtubeLite id="gKNvLyxHTmg" label="I know that the reference to those '777 seas' is obscure at best, so here's the reference. Razor 1911's work on cracktros is some of the finest put there. And this tune is straight up bangin." >}}
+_I know that the reference to those '777 seas' is obscure at best, so here's the reference. Razor 1911's work on cracktros is some of the finest put there. And this tune is straight up bangin._
 
 ## Internet Archive vs. Meta’s Corporate Piracy
 
