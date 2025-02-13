@@ -49,10 +49,10 @@ Meta’s piracy spree is a masterclass in chokepoint capitalism. For the uniniti
 Meta’s playbook is classic chokepoint strategy:
 
 1.  Lock in the supply by filling your digital coffers with scraped data in an effort to monopolise training data for AI models.
-2.  Eliminate competition by arguing that scraping copyrighted works is “fair use,” a legal loophole smaller players can’t afford to exploit[4^].
+2.  Eliminate competition by arguing that scraping copyrighted works is “fair use,” a legal loophole smaller players can’t afford to exploit[^4].
 3.  Extract value by getting paid for a service you built on others' work, all while Zuckerberg schmoozes with politicians to keep regulators at bay.
 
-The real crime here isn't Meta doing it - but if they got away with it. But there is hope. The Internet Archive still fights. Authors are suing. We must demand radical transparency from AI companies, insisting they disclose the precise sources of their training data instead of hiding behind “fair use” hand-waving. At the same time, writers, coders, and creatives need to unite - whether through forming unions or coordinating collective legal action - to secure fair licensing deals or to challenge corporate overreach by suing en masse. And finally, we must decentralise control by supporting independent libraries, not as piracy hubs, but as vital antidotes to corporate domination.
+The real crime here isn't Meta doing it - but if they got away with it. But there is hope. The Internet Archive still fights. Authors are suing. We must demand radical transparency from AI companies, insisting they disclose the precise sources of their training data instead of hiding behind “fair use” hand-waving. At the same time, writers, coders, and creatives need to unite - whether through forming unions or coordinating collective legal action - to secure fair licensing deals or to challenge corporate overreach by suing en masse. And finally, we must decentralise control by supporting independent libraries, not as piracy hubs, but as antidotes to corporate domination.
 
 *This work licensed under CC BY 4.0. Pirate responsibly.*
 
