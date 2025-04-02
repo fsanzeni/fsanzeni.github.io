@@ -1,6 +1,6 @@
 +++
 title = 'About Me'
-date = 2024-10-07
+date = 2025-04-02
 summary = "About Me"
 showSummary = false
 categories = []
@@ -14,15 +14,15 @@ My background spanning academia, think tanks and corporate roles equipped me wit
 
 ## Work Experience
 
-### Alternative Futures Specialist - [Connected Places Catapult](https://cp.catapult.org.uk/who-we-are/) 
+### Senior Consultant, Foresight & Portfolio Management - [Connected Places Catapult](https://cp.catapult.org.uk/who-we-are/) 
 _March 2024 – Current_
 
 Responsible for developing the Human Connected Design Directorate’s strategy and foresight offering. I focus on three elements of strategy for our clients: where to play, how to win and how to be agile when change is necessary. I lead several bids and work packs.
 
 **Representative Projects**
-- National Infrastructure: Scan, quantification and selection criteria for market adjacencies.
-- Cybersecurity: Development of policy for future skills needed in the sector.
-- Maritime Industry: Future of telecommunications, implications and strategy.
+- National Critical Infrastructure: managed 50+ technologists and academics to deliver policy documents on how to secure critical infrastructure (i.e., highways, airports and ports) from adversarial cyberattacks.
+- Rail Industry: oversaw the strategy and funding allocation of the R&D pipeline for the next control period (i.e., 5 years).
+- International Airport: developed a digital twin simulation to demonstrate how and why the airport operations would change when transitioning to their decarbonisation agenda.
 
 ### Foresight Strategist - [Dive Without Fear](https://www.divewithoutfear.com/)  
 _October 2022 – March 2024_  
