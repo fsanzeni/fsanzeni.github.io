@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Future Forecasting on Filippo Sanzeni</title>
-    <link>http://localhost:1313/tags/future-forecasting/</link>
+    <link>http://localhost:51043/tags/future-forecasting/</link>
     <description>Recent content in Future Forecasting on Filippo Sanzeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Sun, 10 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/future-forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:51043/tags/future-forecasting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Future Forecasting: A Handbook for the Designer</title>
-      <link>http://localhost:1313/projects/ffforthedesigner/</link>
+      <link>http://localhost:51043/projects/ffforthedesigner/</link>
       <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/projects/ffforthedesigner/</guid>
+      <guid>http://localhost:51043/projects/ffforthedesigner/</guid>
       <description>Who gives the designer the moral high ground to decide other people&amp;rsquo;s lives?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/ffforthedesigner/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/projects/ffforthedesigner/featured.png" />
     </item>
     
   </channel>

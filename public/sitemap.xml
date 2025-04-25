@@ -3,109 +3,109 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:51043/</loc>
+    <lastmod>2025-04-25T17:18:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:51043/posts/</loc>
+    <lastmod>2025-04-25T17:18:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:51043/about/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:51043/posts/on-overusing-wicked-problems/</loc>
     <lastmod>2025-02-16T10:13:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-overusing-wicked-problems/</loc>
-    <lastmod>2025-02-16T10:13:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-16T10:13:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/on-piracy-for-me-not-for-thee/</loc>
+    <loc>http://localhost:51043/posts/on-piracy-for-me-not-for-thee/</loc>
     <lastmod>2025-02-12T14:19:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-the-innovator-myth/</loc>
+    <loc>http://localhost:51043/posts/on-the-innovator-myth/</loc>
     <lastmod>2025-02-07T14:12:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-tariffs-and-globalisation/</loc>
+    <loc>http://localhost:51043/posts/on-tariffs-and-globalisation/</loc>
     <lastmod>2025-02-03T21:06:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-hardware-enshittification/</loc>
+    <loc>http://localhost:51043/posts/on-hardware-enshittification/</loc>
     <lastmod>2025-01-21T12:33:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-risk-homeostasis/</loc>
+    <loc>http://localhost:51043/posts/on-risk-homeostasis/</loc>
     <lastmod>2025-01-03T09:09:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/auracast-speaker/</loc>
+    <loc>http://localhost:51043/projects/auracast-speaker/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:51043/projects/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/on-institutional-inertia/</loc>
+    <loc>http://localhost:51043/posts/on-institutional-inertia/</loc>
     <lastmod>2024-12-11T09:09:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/from-the-cdc-to-design-futures/</loc>
+    <loc>http://localhost:51043/posts/from-the-cdc-to-design-futures/</loc>
     <lastmod>2024-12-03T11:29:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/f91w-log-1/</loc>
+    <loc>http://localhost:51043/posts/f91w-log-1/</loc>
     <lastmod>2024-10-28T11:29:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/artificialagency/</loc>
+    <loc>http://localhost:51043/projects/artificialagency/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/diybioacoustics/</loc>
+    <loc>http://localhost:51043/projects/diybioacoustics/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/occhio/</loc>
+    <loc>http://localhost:51043/projects/occhio/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/ffforthedesigner/</loc>
+    <loc>http://localhost:51043/projects/ffforthedesigner/</loc>
     <lastmod>2016-01-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

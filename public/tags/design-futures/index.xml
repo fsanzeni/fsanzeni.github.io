@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Futures on Filippo Sanzeni</title>
-    <link>http://localhost:1313/tags/design-futures/</link>
+    <link>http://localhost:51043/tags/design-futures/</link>
     <description>Recent content in Design Futures on Filippo Sanzeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Tue, 03 Dec 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/design-futures/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:51043/tags/design-futures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From the cDc to Design Futures</title>
-      <link>http://localhost:1313/posts/from-the-cdc-to-design-futures/</link>
+      <link>http://localhost:51043/posts/from-the-cdc-to-design-futures/</link>
       <pubDate>Tue, 03 Dec 2024 11:29:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/posts/from-the-cdc-to-design-futures/</guid>
+      <guid>http://localhost:51043/posts/from-the-cdc-to-design-futures/</guid>
       <description>Personal reflection on how hacking culture and Futures work are connected via a punch thrown back in the day.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/from-the-cdc-to-design-futures/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/from-the-cdc-to-design-futures/featured.png" />
     </item>
     
   </channel>

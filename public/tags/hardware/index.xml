@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardware on Filippo Sanzeni</title>
-    <link>http://localhost:1313/tags/hardware/</link>
+    <link>http://localhost:51043/tags/hardware/</link>
     <description>Recent content in Hardware on Filippo Sanzeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Mon, 03 Feb 2025 21:06:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 21:06:00 +0000</lastBuildDate><atom:link href="http://localhost:51043/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Tariffs and Globalisation</title>
-      <link>http://localhost:1313/posts/on-tariffs-and-globalisation/</link>
+      <link>http://localhost:51043/posts/on-tariffs-and-globalisation/</link>
       <pubDate>Mon, 03 Feb 2025 21:06:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/posts/on-tariffs-and-globalisation/</guid>
+      <guid>http://localhost:51043/posts/on-tariffs-and-globalisation/</guid>
       <description>Tariffs have been a useful tool for protectionism. Up the 1920s. Perhaps today things are a little more complicated.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-tariffs-and-globalisation/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-tariffs-and-globalisation/featured.jpg" />
     </item>
     
     <item>
       <title>On Hardware Enshittification</title>
-      <link>http://localhost:1313/posts/on-hardware-enshittification/</link>
+      <link>http://localhost:51043/posts/on-hardware-enshittification/</link>
       <pubDate>Tue, 21 Jan 2025 12:33:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/posts/on-hardware-enshittification/</guid>
+      <guid>http://localhost:51043/posts/on-hardware-enshittification/</guid>
       <description>A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-hardware-enshittification/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-hardware-enshittification/featured.png" />
     </item>
     
     <item>
       <title>Auracast Bluetooth Speaker</title>
-      <link>http://localhost:1313/projects/auracast-speaker/</link>
+      <link>http://localhost:51043/projects/auracast-speaker/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/projects/auracast-speaker/</guid>
+      <guid>http://localhost:51043/projects/auracast-speaker/</guid>
       <description>Trials and tribulations in developing a Bluetooth speaker ecosystem.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/auracast-speaker/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/projects/auracast-speaker/featured.jpg" />
     </item>
     
     <item>
       <title>F91W Log 1</title>
-      <link>http://localhost:1313/posts/f91w-log-1/</link>
+      <link>http://localhost:51043/posts/f91w-log-1/</link>
       <pubDate>Mon, 28 Oct 2024 11:29:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/posts/f91w-log-1/</guid>
+      <guid>http://localhost:51043/posts/f91w-log-1/</guid>
       <description>Working on the power circuitry of a re-designed Casio F91W, now with wireless charging.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/f91w-log-1/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/f91w-log-1/featured.jpg" />
     </item>
     
     <item>
       <title>DIY Bioacoustics</title>
-      <link>http://localhost:1313/projects/diybioacoustics/</link>
+      <link>http://localhost:51043/projects/diybioacoustics/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:1313/projects/diybioacoustics/</guid>
+      <guid>http://localhost:51043/projects/diybioacoustics/</guid>
       <description>Open source sensor/service for preemptive detection of pests in crops.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/diybioacoustics/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/projects/diybioacoustics/featured.png" />
     </item>
     
   </channel>
