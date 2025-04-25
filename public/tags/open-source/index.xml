@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open-Source on Filippo Sanzeni</title>
-    <link>http://localhost:51043/tags/open-source/</link>
+    <link>http://localhost:1313/tags/open-source/</link>
     <description>Recent content in Open-Source on Filippo Sanzeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Mon, 28 Oct 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:51043/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Oct 2024 11:29:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>F91W Log 1</title>
-      <link>http://localhost:51043/posts/f91w-log-1/</link>
+      <link>http://localhost:1313/posts/f91w-log-1/</link>
       <pubDate>Mon, 28 Oct 2024 11:29:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/f91w-log-1/</guid>
+      <guid>http://localhost:1313/posts/f91w-log-1/</guid>
       <description>Working on the power circuitry of a re-designed Casio F91W, now with wireless charging.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/f91w-log-1/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/f91w-log-1/featured.jpg" />
     </item>
     
   </channel>

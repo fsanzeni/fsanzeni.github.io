@@ -2,92 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rambling on Filippo Sanzeni</title>
-    <link>http://localhost:51043/tags/rambling/</link>
+    <link>http://localhost:1313/tags/rambling/</link>
     <description>Recent content in Rambling on Filippo Sanzeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Sun, 16 Feb 2025 10:13:00 +0000</lastBuildDate><atom:link href="http://localhost:51043/tags/rambling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Apr 2025 16:18:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rambling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On The Paradox of Protectionism</title>
+      <link>http://localhost:1313/posts/on-the-paradox-of-protectionism/</link>
+      <pubDate>Fri, 25 Apr 2025 16:18:00 +0000</pubDate>
+      <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
+      <guid>http://localhost:1313/posts/on-the-paradox-of-protectionism/</guid>
+      <description>Could blitzkrieg protectionism somehow offer a (tentative) scaffolding for local growth?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-the-paradox-of-protectionism/featured.jpg" />
+    </item>
+    
     <item>
       <title>On Overusing Wicked Problems</title>
-      <link>http://localhost:51043/posts/on-overusing-wicked-problems/</link>
+      <link>http://localhost:1313/posts/on-overusing-wicked-problems/</link>
       <pubDate>Sun, 16 Feb 2025 10:13:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/on-overusing-wicked-problems/</guid>
+      <guid>http://localhost:1313/posts/on-overusing-wicked-problems/</guid>
       <description>I&amp;rsquo;ve got an itch to scratch regarding wicked problems and how often they can be an excuse for inaction</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-overusing-wicked-problems/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-overusing-wicked-problems/featured.jpg" />
     </item>
     
     <item>
       <title>On &#34;Piracy for Me, not for Thee&#34;</title>
-      <link>http://localhost:51043/posts/on-piracy-for-me-not-for-thee/</link>
+      <link>http://localhost:1313/posts/on-piracy-for-me-not-for-thee/</link>
       <pubDate>Wed, 12 Feb 2025 14:19:54 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/on-piracy-for-me-not-for-thee/</guid>
+      <guid>http://localhost:1313/posts/on-piracy-for-me-not-for-thee/</guid>
       <description>LLMs, institutionalised piracy and other good things all add up to slop. Let&amp;rsquo;s dissect Meta&amp;rsquo;s latest blunder.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-piracy-for-me-not-for-thee/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-piracy-for-me-not-for-thee/featured.jpg" />
     </item>
     
     <item>
       <title>On The Innovator Myth</title>
-      <link>http://localhost:51043/posts/on-the-innovator-myth/</link>
+      <link>http://localhost:1313/posts/on-the-innovator-myth/</link>
       <pubDate>Fri, 07 Feb 2025 14:12:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/on-the-innovator-myth/</guid>
+      <guid>http://localhost:1313/posts/on-the-innovator-myth/</guid>
       <description>A deep dive, spurred by recent events (Deepseek, wink wink), on the different mental frameworks of innovation between the West and East. Yes, I&amp;rsquo;m simplifying.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-the-innovator-myth/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-the-innovator-myth/featured.webp" />
     </item>
     
     <item>
       <title>On Tariffs and Globalisation</title>
-      <link>http://localhost:51043/posts/on-tariffs-and-globalisation/</link>
+      <link>http://localhost:1313/posts/on-tariffs-and-globalisation/</link>
       <pubDate>Mon, 03 Feb 2025 21:06:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/on-tariffs-and-globalisation/</guid>
+      <guid>http://localhost:1313/posts/on-tariffs-and-globalisation/</guid>
       <description>Tariffs have been a useful tool for protectionism. Up the 1920s. Perhaps today things are a little more complicated.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-tariffs-and-globalisation/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-tariffs-and-globalisation/featured.jpg" />
     </item>
     
     <item>
       <title>On Hardware Enshittification</title>
-      <link>http://localhost:51043/posts/on-hardware-enshittification/</link>
+      <link>http://localhost:1313/posts/on-hardware-enshittification/</link>
       <pubDate>Tue, 21 Jan 2025 12:33:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/on-hardware-enshittification/</guid>
+      <guid>http://localhost:1313/posts/on-hardware-enshittification/</guid>
       <description>A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-hardware-enshittification/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-hardware-enshittification/featured.png" />
     </item>
     
     <item>
       <title>On Risk Homeostasis</title>
-      <link>http://localhost:51043/posts/on-risk-homeostasis/</link>
+      <link>http://localhost:1313/posts/on-risk-homeostasis/</link>
       <pubDate>Fri, 03 Jan 2025 09:09:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/on-risk-homeostasis/</guid>
+      <guid>http://localhost:1313/posts/on-risk-homeostasis/</guid>
       <description>Jump into my latest rabbit hole: risk homeostasis theory, or, why we can rethink risk in strategy (and software development).</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-risk-homeostasis/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-risk-homeostasis/featured.png" />
     </item>
     
     <item>
       <title>On Institutional Inertia</title>
-      <link>http://localhost:51043/posts/on-institutional-inertia/</link>
+      <link>http://localhost:1313/posts/on-institutional-inertia/</link>
       <pubDate>Wed, 11 Dec 2024 09:09:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/on-institutional-inertia/</guid>
+      <guid>http://localhost:1313/posts/on-institutional-inertia/</guid>
       <description>How the pirates of Monkey Island can teach us about organisational inertia, or, why companies do not like change so much.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/on-institutional-inertia/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/on-institutional-inertia/featured.png" />
     </item>
     
     <item>
       <title>From the cDc to Design Futures</title>
-      <link>http://localhost:51043/posts/from-the-cdc-to-design-futures/</link>
+      <link>http://localhost:1313/posts/from-the-cdc-to-design-futures/</link>
       <pubDate>Tue, 03 Dec 2024 11:29:00 +0000</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/posts/from-the-cdc-to-design-futures/</guid>
+      <guid>http://localhost:1313/posts/from-the-cdc-to-design-futures/</guid>
       <description>Personal reflection on how hacking culture and Futures work are connected via a punch thrown back in the day.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/posts/from-the-cdc-to-design-futures/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/from-the-cdc-to-design-futures/featured.png" />
     </item>
     
   </channel>

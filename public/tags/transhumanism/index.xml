@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transhumanism on Filippo Sanzeni</title>
-    <link>http://localhost:51043/tags/transhumanism/</link>
+    <link>http://localhost:1313/tags/transhumanism/</link>
     <description>Recent content in Transhumanism on Filippo Sanzeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>sanzenifilippo@gmail.com (Filippo Sanzeni)</managingEditor>
     <webMaster>sanzenifilippo@gmail.com (Filippo Sanzeni)</webMaster>
     
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:51043/tags/transhumanism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/transhumanism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Agency</title>
-      <link>http://localhost:51043/projects/artificialagency/</link>
+      <link>http://localhost:1313/projects/artificialagency/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <author>sanzenifilippo@gmail.com (Filippo Sanzeni)</author>
-      <guid>http://localhost:51043/projects/artificialagency/</guid>
+      <guid>http://localhost:1313/projects/artificialagency/</guid>
       <description>What if the algorithm would prevent the user from performing certain actions which are deemed unlayful or unethical?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51043/projects/artificialagency/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/artificialagency/featured.png" />
     </item>
     
   </channel>
