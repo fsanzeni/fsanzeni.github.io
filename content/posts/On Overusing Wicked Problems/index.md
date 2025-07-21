@@ -4,7 +4,7 @@ date = 2025-02-16T10:13:00
 summary = "I've got an itch to scratch regarding wicked problems and how often they can be an excuse for inaction"
 showSummary = true
 categories = ["Blog",]
-tags = ["wicked problems", "organisational design", "strategy", "change management", "complexity", "problem solving"]
+tags = ["wicked problems","organisational design","strategy","change management","complexity","problem solving"]
 +++
 When people casually toss around the term “wicked problem,” they’re not always talking about something insurmountable - just something messy and convoluted. I am guilty of doing this, too. In one of my (many) PhD drafts (you can read the final document [here](https://researchonline.rca.ac.uk/6303/)), I was trying to frame the problem of enhancement technologies as a wicked problem. I wasn’t completely crazy, as there is a rich history of design and wicked problems (see as an intro to the subject matter the excellent [paper by Buchanan in 1992](https://www.jstor.org/stable/1511637) and [the more recent work by the consistently excellent Ben Sweeting](https://link.springer.com/chapter/10.1007/978-4-431-55639-8_5)). My supervisor[^1] quickly steered me away from that idea, as he noted that wicked problems are pretty well established in the academic literature and have ten well-defined characteristics. 
 
