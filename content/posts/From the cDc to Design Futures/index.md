@@ -4,7 +4,7 @@ date = 2024-12-03T11:29:00
 summary = "Personal reflection on how hacking culture and Futures work are connected via a punch thrown back in the day."
 showSummary = true
 categories = ["Blog",]
-tags = ["rambling","design futures"]
+tags = ["hacking culture", "futures studies", "design futures", "speculative design", "technology culture"]
 +++
 
 I'm deeply fascinated by counterculture(s) and their ability to rally like-minded people around a shared set of ideals. Growing up, I used to hang around with a bunch of misfits: a few punks, lots of nerds (the Warhammer kind, not the computer kind) a sprinkle of sound systems folk and, last but not least, skaters.

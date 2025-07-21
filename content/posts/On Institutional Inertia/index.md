@@ -4,7 +4,7 @@ date = 2024-12-11T09:09:00
 summary = "How the pirates of Monkey Island can teach us about organisational inertia, or, why companies do not like change so much."
 showSummary = true
 categories = ["Blog",]
-tags = ["rambling","strategy","change management"]
+tags = ["institutional inertia", "organisational behaviour", "change resistance", "corporate culture"]
 +++
 
 I’m going to start this latest ramble by paraphrasing a beautiful paper by [Laura Valderrama-Ferrando](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=002a1a99692c68f047cbf704c9e1c8a34c395465). She talks about diggers and kings, but I much prefer pirates that can use a rubber chicken with a pulley in the middle. Here it goes:

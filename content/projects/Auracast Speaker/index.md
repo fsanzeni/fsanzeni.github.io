@@ -4,7 +4,7 @@ date = 2025-01-02
 summary = "Trials and tribulations in developing a Bluetooth speaker ecosystem."
 showSummary = true
 categories = ["Post","Project",]
-tags = ["project","bluetooth","hardware"]
+tags = ["bluetooth", "audio development", "product design", "consumer electronics", "speaker technology"]
 +++
 
 # The Concept

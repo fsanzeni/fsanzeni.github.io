@@ -4,7 +4,7 @@ date = 2025-02-03T21:06:00
 summary = "Tariffs have been a useful tool for protectionism. Up the 1920s. Perhaps today things are a little more complicated."
 showSummary = true
 categories = ["Blog",]
-tags = ["rambling","strategy","hardware"]
+tags = ["tariffs", "globalisation", "protectionism", "economic policy", "trade", "20th century economics"]
 +++
 
 I’ve been designing a breakout board for a Bluetooth 5.4 module (see [FSC-BT1038B project](https://github.com/fsanzeni/FSC-BT1038B-Barebones-Breakout)). On the surface, it’s a straightforward PCB - a handful of components soldered onto a green slab of fibreglass (or black... I still haven’t settled on the silkscreen colour. But I digress). Yet its creation spans continents: [KiCad](https://www.kicad.org/), an open-source tool built by a global community; a PCB fabricated in China on (probably) German machinery; capacitors from South Korea; resistors from Taiwan; and a Bluetooth module designed and likely manufactured in China. Like most (I’d even wager to say _all_) modern electronics, this little side project is a testament to globalisation’s efficiency - and its fragility once you scratch the surface.  

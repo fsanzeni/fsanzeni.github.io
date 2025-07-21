@@ -4,7 +4,7 @@ date = 2025-01-03T09:09:00
 summary = "Jump into my latest rabbit hole: risk homeostasis theory, or, why we can rethink risk in strategy (and software development)."
 showSummary = true
 categories = ["Blog",]
-tags = ["rambling","strategy","change management"]
+tags = ["risk theory", "strategy", "software development", "risk management", "behavioural economics"]
 +++
 
 Over this winter break, I went down a bit of a rabbit hole, prompted by this excellent talk by Peter van Hardenberg on why we can’t avoid writing complex software (video embedded after the break). In the talk, Peter brings up something I never heard before: risk homeostasis. As a keen cybernetician and strategist, my spidey senses tingled – mainly because of the shame of never coming across the term. Allow me a couple of definitions and references:
