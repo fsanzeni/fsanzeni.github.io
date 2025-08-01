@@ -4,7 +4,7 @@ date = 2025-02-12T14:19:54
 summary = "LLMs, institutionalised piracy and other good things all add up to slop. Let's dissect Meta's latest blunder."
 showSummary = true
 categories = ["Blog",]
-tags = ["rambling","genAI","innovation"]
+tags = ["large language models", "intellectual property", "digital piracy", "meta", "technology ethics", "corporate strategy"]
 +++
 # The Context
 Meta [torrented 81.7 terabytes of pirated books](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/) from shadow libraries like Z-Library, LibGen, and Anna’s Archive to train its AI models like LLaMA. This wasn’t a one-off - [court documents reveal Meta previously downloaded another 80.6TB from LibGen alone](https://cdn.arstechnica.net/wp-content/uploads/2025/02/Kadrey-v-Meta-Plaintiffs-Motion-for-Relief-2-5-25.pdf). To put this in perspective, that’s equivalent to approximately 45e+10 (that reads as more than forty-five billion) pages of scanned books[^1]. 

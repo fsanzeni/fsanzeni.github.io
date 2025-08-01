@@ -4,7 +4,7 @@ date = 2025-02-07T14:12:00
 summary = "A deep dive, spurred by recent events (Deepseek, wink wink), on the different mental frameworks of innovation between the West and East. Yes, I'm simplifying."
 showSummary = true
 categories = ["Blog",]
-tags = ["rambling","strategy","innovation"]
+tags = ["innovation", "cultural differences", "western innovation", "eastern innovation", "technology trends", "innovation frameworks"]
 +++
 
 # Introduction

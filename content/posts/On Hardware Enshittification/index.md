@@ -4,7 +4,7 @@ date = 2025-01-21T12:33:00
 summary = "A notoriusly good 3D printer manufacturer decided to alienate their customer base py pushing unnecessarily restrictive firmware updates."
 showSummary = true
 categories = ["Blog",]
-tags = ["rambling","strategy","hardware"]
+tags = ["hardware", "customer alienation", "firmware updates", "3d printing", "technology critique", "user experience"]
 +++
 
 Bambu Lab, a relatively recent darling of the 3D printing world, has joined the pantheon of tech companies adopting the tradition of hardware enshittification. Their latest move - [a firmware update on January 16, 2025](https://blog.bambulab.com/firmware-update-introducing-new-authorization-control-system-2/) - introduced “security measures” so unconvincing they might as well have come with air quotes and a side of contempt (I’ll be using air quotes liberally throughout this post, please do read them with irony). Ostensibly designed to “protect users”, the update added an authentication mechanism that smells suspiciously like nerfing capabilities that customers paid for.  
