@@ -34,3 +34,9 @@ A few considerations:
 - I've broken out *all* the pins and grouped them in headers to kinda make it easy to attach external modules. This means some pins are duplicated (e.g., the MIC/LINE ones). I still expect folks to give the datasheet a peruse to familiarise yourselves with which ports can be used at the same time.
 - The boards are 4 layers (signal - ground - 3.3v - signal), just because I didn't want to spend too much time figuring out how to route the various power supplies in a sensible way. I'm sure the design could be optimised for a 2 layer board.
 - I didn't bother using differential routing for the USB (also, the pins are criss-crossing for some reason). This shouldn't be a problem at all, since the speeds are really limited - but, yes, it's not best practice.
+
+## Update #1
+The board works. All peripherals, AT commands, voltage regulation, buttons, etc. One small issue: I jumped the gun. The BT1038B does not support receivinbg Bluetooth Classic while rebroadcasting BLE Audio. So it works perfectly as a Bluetooth (classic) streamer OR a BLE streamer. Not both. I'm re-designing a new board witrh another Feasycom SoM that should support both modes at the same time:
+{{< github repo="fsanzeni/FSC-BT631D-Breakout" >}}
+
+As some extra goodies, you'll find in the same repo the schematic and layout for a 30W amplifier based on the [TPA3129D2](https://www.ti.com/product/TPA3129D2) ic and a DSP board based on the [ADAU1701](https://www.analog.com/en/products/adau1701.html) ic.

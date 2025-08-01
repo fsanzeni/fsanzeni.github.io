@@ -6,6 +6,9 @@ summary = "Documentation for the GPIO"
 showSummary = true
 categories = ["Project"]
 tags = ["risc-v","CH32V","tutorial"]
+[ build ]
+  list = false
+  render = true
 +++
 
 | **Function Name**                                                        | **Purpose**                                                                                                                                                  | **When to use**                                                                                                                                                                               |

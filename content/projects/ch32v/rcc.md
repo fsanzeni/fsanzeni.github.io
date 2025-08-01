@@ -6,6 +6,9 @@ summary = "Documentation for the Reset and Clock Control"
 showSummary = true
 categories = ["Project"]
 tags = ["risc-v","CH32V","tutorial"]
+[ build ]
+  list = false
+  render = true
 +++
 
 The RCC ("Reset and Clock Control") handles all aspects of the MCU’s system clocks and peripheral clock gating. Most MCU peripherals will not function unless their clock is enabled via these RCC functions.

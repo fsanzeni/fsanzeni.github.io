@@ -6,6 +6,9 @@ summary = "Documentation for the system"
 showSummary = true
 categories = ["Project"]
 tags = ["risc-v","CH32V","tutorial"]
+[ build ]
+  list = false
+  render = true
 +++
 
 ## system_ch32vxxx.c
