@@ -7,7 +7,7 @@ showSummary = true
 categories = ["Project"]
 tags = ["risc-v","CH32V","tutorial"]
 [ build ]
-  list = false
+  list = 'local'
   render = true
 +++
 
