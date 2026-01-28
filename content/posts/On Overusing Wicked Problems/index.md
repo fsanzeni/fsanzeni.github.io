@@ -1,7 +1,7 @@
 +++
 title = 'On Overusing Wicked Problems'
 date = 2025-02-16T10:13:00
-summary = "I've got an itch to scratch regarding wicked problems and how often they can be an excuse for inaction"
+summary = "I've got an itch to scratch regarding wicked problems and how often they can be an excuse for inaction."
 showSummary = true
 categories = ["Blog",]
 tags = ["wicked problems","organisational design","strategy","change management","complexity","problem solving"]
