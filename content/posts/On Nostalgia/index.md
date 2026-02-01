@@ -39,6 +39,7 @@ But corporations aren't stupid. They're not selling the past; they're selling wh
 
 And things *do* feel worse, materially. We've created an economic system that produces abundance while somehow making everyone feel more precarious. Housing costs are insane. Real wages are stagnant. So corporations sell us transparent phones, retro typewriter keyboards, and whatever other aesthetic signifiers of a time when, supposedly, things made sense. To quote directly (I'll hold personal judgement):
 > ["The brands that evoke nostalgia are selling more than just products; they offer comfort, connection and continuity during periods of unrest".](https://www.quirks.com/articles/why-nostalgia-is-the-hottest-strategy-for-brands-right-now)
+
 Which is a polite way of saying: things are bad now, so here's a branded memory of when they weren't, that'll be £599 plus VAT (ok maybe some personal judgement is seeping through).
 ## The supply chain tells a different story
 
