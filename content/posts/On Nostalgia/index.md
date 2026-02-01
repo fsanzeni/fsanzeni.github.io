@@ -23,6 +23,7 @@ Nothing released their [Phone (3a) Community Edition](https://nothing.tech/produ
   <img src="./02.webp" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="./03.jpg" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="./04.jpg" class="grid-w50 md:grid-w33 xl:grid-w50" />
+  <img src="./05.webp" class="grid-w50 md:grid-w33 xl:grid-w50" />
 
 {{< /gallery >}}
 
