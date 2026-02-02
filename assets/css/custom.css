@@ -1,0 +1,57 @@
+@font-face {
+    font-family: SpaceGrotesk;
+    src: url('/fonts/SpaceGrotesk.woff2');
+}
+
+@font-face {
+  font-family: "InterVariable";
+  src: url("/fonts/InterVariable.woff2")
+    format("woff2-variations");
+  font-weight: 125 950;
+  font-stretch: 75% 125%;
+
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "InterVariable-Italic";
+  src: url("/fonts/InterVariable-Italic.woff2")
+    format("woff2-variations");
+  font-weight: 125 950;
+  font-stretch: 75% 125%;
+
+  font-style: italic;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 
+    font-family: “SpaceGrotesk”, sans-serif;
+    font-style: normal;
+    font-weight: normal bold;
+    letter-spacing: -0.02em;
+}
+
+span, p, ol, li, time {
+    font-family: "InterVariable", sans-serif;
+    font-style: normal;
+    font-weight: normal bold;
+    line-height: 1.6; 
+}
+
+i, em {
+    font-family: "InterVariable-Italic", sans-serif;
+    font-style: italic;
+    font-weight: normal bold;
+}
+
+a {
+    color: inherit;
+    font-weight: 600;
+}
+
+a:hover {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: rgb(var(--color-primary-500));
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
