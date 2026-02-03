@@ -1,0 +1,49 @@
+<section class="py-12 border-b border-neutral-200 dark:border-neutral-800 bg-neutral-50 dark:bg-neutral-900 overflow-hidden">
+  
+  <div class="max-w-7xl mx-auto px-6 mb-8 text-center">
+    <p class="text-xs font-mono uppercase tracking-widest text-neutral-400">Trusted By</p>
+  </div>
+
+  <!-- Carousel Container with Fade Mask -->
+  <div class="flex justify-center w-full max-w-5xl mx-auto" 
+       style="mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent); -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);">
+    
+    <!-- Scrolling Track -->
+    <div class="flex gap-12 sm:gap-24 w-max animate-scroll">
+      
+      <!-- LOGO SET (Repeat twice for seamless loop) -->
+      {{ range seq 2 }}
+        <!-- Replace SVGs below with your actual client logos -->
+        
+        <!-- Logo 1: Connected Places Catapult -->
+        <div class="flex items-center justify-center h-12 w-32 opacity-50 grayscale hover:grayscale-0 hover:opacity-100 transition-all duration-500">
+           <!-- Placeholder SVG: Replace with actual logo -->
+           <svg viewBox="0 0 100 30" fill="currentColor" class="w-full h-full text-neutral-800 dark:text-neutral-200">
+             <path d="M10,15 L20,5 L30,15 L20,25 Z M40,10 H90 V20 H40 Z" />
+           </svg>
+        </div>
+
+        <!-- Logo 2: OPPO -->
+        <div class="flex items-center justify-center h-12 w-32 opacity-50 grayscale hover:grayscale-0 hover:opacity-100 transition-all duration-500">
+           <span class="text-xl font-bold font-sans tracking-tight text-neutral-800 dark:text-neutral-200">OPPO</span>
+        </div>
+
+        <!-- Logo 3: Royal College of Art -->
+        <div class="flex items-center justify-center h-12 w-32 opacity-50 grayscale hover:grayscale-0 hover:opacity-100 transition-all duration-500">
+           <span class="text-lg font-serif italic font-bold text-neutral-800 dark:text-neutral-200">RCA</span>
+        </div>
+
+        <!-- Logo 4: CERN IdeaSquare -->
+        <div class="flex items-center justify-center h-12 w-32 opacity-50 grayscale hover:grayscale-0 hover:opacity-100 transition-all duration-500">
+           <span class="text-xl font-mono font-bold text-neutral-800 dark:text-neutral-200">CERN</span>
+        </div>
+
+        <!-- Logo 5: Cambridge -->
+        <div class="flex items-center justify-center h-12 w-32 opacity-50 grayscale hover:grayscale-0 hover:opacity-100 transition-all duration-500">
+           <span class="text-lg font-serif text-neutral-800 dark:text-neutral-200">Cambridge</span>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+</section>

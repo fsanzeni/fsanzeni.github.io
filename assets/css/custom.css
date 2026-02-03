@@ -55,3 +55,17 @@ a:hover {
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
 }
+
+
+
+
+    @keyframes scroll {
+      from { transform: translateX(0); }
+      to { transform: translateX(-50%); }
+    }
+    .animate-scroll {
+      animation: scroll 50s linear infinite;
+    }
+    .animate-scroll:hover {
+      animation-play-state: paused; /* Optional: Pause on hover */
+    }
