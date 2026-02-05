@@ -1,12 +1,11 @@
 @font-face {
-    font-family: SpaceGrotesk;
-    src: url('/fonts/SpaceGrotesk.woff2');
+  font-family: SpaceGrotesk;
+  src: url('/fonts/SpaceGrotesk.woff2');
 }
 
 @font-face {
   font-family: "InterVariable";
-  src: url("/fonts/InterVariable.woff2")
-    format("woff2-variations");
+  src: url("/fonts/InterVariable.woff2") format("woff2-variations");
   font-weight: 125 950;
   font-stretch: 75% 125%;
 
@@ -15,37 +14,52 @@
 
 @font-face {
   font-family: "InterVariable-Italic";
-  src: url("/fonts/InterVariable-Italic.woff2")
-    format("woff2-variations");
+  src: url("/fonts/InterVariable-Italic.woff2") format("woff2-variations");
   font-weight: 125 950;
   font-stretch: 75% 125%;
 
   font-style: italic;
 }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 
-    font-family: “SpaceGrotesk”, sans-serif;
-    font-style: normal;
-    font-weight: normal bold;
-    letter-spacing: -0.02em;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: “SpaceGrotesk”, sans-serif;
+  font-style: normal;
+  font-weight: normal bold;
+  letter-spacing: -0.02em;
 }
 
-span, p, ol, li, time {
-    font-family: "InterVariable", sans-serif;
-    font-style: normal;
-    font-weight: normal bold;
-    line-height: 1.6; 
+span,
+p,
+ol,
+li,
+time {
+  font-family: "InterVariable", sans-serif;
+  font-style: normal;
+  font-weight: normal bold;
+  line-height: 1.6;
 }
 
-i, em {
-    font-family: "InterVariable-Italic", sans-serif;
-    font-style: italic;
-    font-weight: normal bold;
+i,
+em {
+  font-family: "InterVariable-Italic", sans-serif;
+  font-style: italic;
+  font-weight: normal bold;
 }
 
 a {
-    color: inherit;
-    font-weight: 600;
+  color: inherit;
+  font-weight: 600;
 }
 
 a:hover {
@@ -56,16 +70,20 @@ a:hover {
   text-underline-offset: 3px;
 }
 
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
 
+  to {
+    transform: translateX(-50%);
+  }
+}
 
+.animate-scroll {
+  animation: scroll 50s linear infinite;
+}
 
-    @keyframes scroll {
-      from { transform: translateX(0); }
-      to { transform: translateX(-50%); }
-    }
-    .animate-scroll {
-      animation: scroll 50s linear infinite;
-    }
-    .animate-scroll:hover {
-      animation-play-state: paused; /* Optional: Pause on hover */
-    }
+.animate-scroll:hover {
+  animation-play-state: paused;
+}
