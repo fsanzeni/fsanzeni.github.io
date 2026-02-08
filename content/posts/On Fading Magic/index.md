@@ -1,6 +1,6 @@
 +++
 title = 'On Fading Magic'
-date = 2026-02-07T18:44:00
+date = 2026-02-08T19:26:00
 summary = "On how sufficiently advanced technology stops being magic once we understand it, and why moving our understaning from magic to mundane matters."
 showSummary = true
 categories = ["Blog",]
@@ -13,7 +13,7 @@ I'm not going to touch on Clarke's first two laws here - they deserve their own 
 
 Let me take you back to a specific moment of personal technological enchantment. I got my hands on fourth-generation (I think- either that or the 3rd Gen one) iPod Touch. This was peak 2010s gadget worship, when Apple could still make you feel like you'd joined a priesthood just by purchasing their products. But what really captured me wasn't the device itself; it was a game called Papa Sangre.
 
-The premise was simple (and pardon me if I don’t get all the nuance right, it’s been a while): tap two buttons alternately to walk forward through a level, following a shrill bell while avoiding a sleeping monster. If you went too close to it or, heavens forbid, you'd trip on it, it would awake and start stomping towards you. Then all was left for you was to smash the buttons as fast as you could to run away. Standard mobile game mechanics. 
+The premise was simple (and pardon me if I don’t get all the nuance right, it’s been a while): tap two (skeleton-foot-shaped) buttons alternately to walk forward through a level, following a shrill bell while avoiding a sleeping monster. If you went too close to it or, heavens forbid, you'd trip on it, it would awake and start stomping towards you. Then all was left for you was to smash the buttons as fast as you could to run away.
 
 Fond memories aside, the whole game had no visual assets besides the UI. It was incredibly immersive and terrifying, and even though I am little more than a casual gamer, it really stuck with me as one of the most exciting gaming experiences of my life. And yes, it felt like magic, like some arcane ritual had been performed to make sound behave this way, to create a three-dimensional space you could navigate with your ears. The technology was sufficiently advanced that I couldn't distinguish it from the supernatural.
 
@@ -24,7 +24,9 @@ Fond memories aside, the whole game had no visual assets besides the UI. It was 
   <img src="ps4.jpeg" class="grid-w50" />
   <img src="ps5.webp" class="grid-w50" />
 {{< /gallery >}}
-_[image captions: screen grabs from Papa Sangre. There's not a ton of images out there...]_
+{{< caption >}}
+  Screen grabs from Papa Sangre. There's not a ton of images out there...
+{{< /caption >}}
 
 But here's the thing about magic: it demands to be understood (at least if you, like me, are fans of Penn and Teller’s philosophy). That experience metastasised into curiosity, then into study, and eventually into a significant portion of my PhD practice. I built an audio-only immersive experience where, instead of tapping Gorilla Glass, you could freely move through physical space, tracked in real-time with centimetre-level accuracy via Ultra Wideband technology. The same tech that's now in AirTags and helps you find your misplaced iPhone.
 

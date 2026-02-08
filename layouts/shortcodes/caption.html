@@ -1,0 +1,20 @@
+{{/* layouts/shortcodes/caption.html */}}
+{{ $class := .Get "class" | default "" }}
+{{ $cols := .Get "cols" | default "1" }}
+{{ $gap := .Get "gap" | default "8" }}
+
+<div class="mt-3 {{ $class }}">
+    {{ if eq $cols "1" }}
+    <!-- Single Column Layout -->
+    <figcaption>
+        {{ .Inner | markdownify }}
+    </figcaption>
+    {{ else }}
+    <!-- Grid Layout (2+ Columns) -->
+    <div class="grid grid-cols-1 md:grid-cols-{{ $cols }} gap-{{ $gap }}">
+        <figcaption>
+            {{ .Inner | markdownify }}
+        </figcaption>
+    </div>
+    {{ end }}
+</div>
