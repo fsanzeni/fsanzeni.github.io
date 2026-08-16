@@ -72,3 +72,13 @@ The board has four layers: the two inner copper layers are continuous ground pla
   <img src="./l4.png" class="grid-w50 md:grid-w33 xl:grid-w50" />
 
 {{< /gallery >}}
+
+And, just for funsies, here's the iBOM whilst I wait for the manufacturing!
+
+<iframe 
+  src="/boms/auracastv2_bom/ibom.html" 
+  width="100%" 
+  height="800px"
+  style="border: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</iframe>
+
